@@ -86,7 +86,7 @@ export const timeline = [
   {
     year: 2019,
     title: 'Album Design Excellence',
-    description: 'Collaborated with leading brands in Kenya.'
+    description: 'Turning precious photographs into timeless stories.'
   },
   {
     year: 2021,
