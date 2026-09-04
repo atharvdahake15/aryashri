@@ -10,7 +10,7 @@ export const studioInfo = {
   whatsapp: '7385797202',
   social: {
     instagram: 'https://www.instagram.com/aryashri_creations?utm_source=qr&igsi=MW5wcHZzNXZ5Njhn',
-    facebook: 'https://facebook.com/AaryaShri Creations',
+    facebook: 'https://www.facebook.com/share/1FHenhvgFi/',
     
   }
 }
