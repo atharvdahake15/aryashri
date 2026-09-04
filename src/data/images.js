@@ -76,8 +76,8 @@ export const portfolioImages = [
   },
   {
     id: 7,
-    src: '/images/wedding11.jpeg',
-    srcLarge: '/images/wedding11.jpeg',
+    src: '/images/wedding15.jpeg',
+    srcLarge: '/images/wedding15.jpeg',
     title: 'Audio Excellence',
     category: 'commercial',
     aspect: 'square'
