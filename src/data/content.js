@@ -43,7 +43,36 @@ export const services = [
     description: 'Little hands, little feet, and memories oh so sweet...the beginning of our journey in capturing childhood.',
     icon: 'event',
     features: ['Baby Shoot' ,  'Newborn Photography', 'Cute Baby Portraits', 'Birthday & Milestone Shoots']
-  }
+  },
+  {
+    id: 5 ,
+    title: 'Laminate art printing and ID Card Printing',
+    description: 'High-quality ID card printing with durable lamination for a professional finish and protection against water, scratches, and wear.and Professional-quality ID card printing with sharp text, clear photographs, vibrant colors, and durable lamination for everyday use.',
+    icon: 'Laminate',
+    features: ['Durable, waterproof, scratch-resistant, clear printing, professional finish, and long-lasting protection High-quality photo printing','Sharp and clear text','Vibrant colors',' Durable PVC card','Waterproof and scratch-resistant.']
+  },
+  {
+    id: 6 ,
+    title: 'Customize frame',
+    description:'Beautifully customized frames designed to match your photos, artwork, and personal style.',
+    icon:'Cusomize Frame',
+    features:['Custom sizes',' Personalized designs',' High-quality finish','Durable materials','Stylish look','Multiple colors and styles','Photo/artwork compatibility.'] 
+  },
+  {
+    id: 7 ,
+    title: 'Customized printing',
+    description: 'Personalized printing tailored to your design, text, images, and branding.',
+    icon: 'Customized printing',
+    features: ['Personalized designs',' High-quality printing', 'Custom text & images', 'Logo and branding options','Vibrant colors',' Different sizes and finishes.']
+  },
+  {
+    id: 8 ,
+    title: 'Customize Printing and T-shirt Printing ',
+    description: 'Personalized printing with your choice of designs, photos, text, logos, and colors. and High-quality custom T-shirt printing with personalized designs, images, logos, and text.',
+    icon: 'Customized printing and T-shirt Printing',
+    features: ['Custom designs','High-quality prints','Vibrant colors','Personalized text','Photo & logo printing','Multiple size','Durable finish.','Custom designs','Vibrant prints','High-quality fabric','Long-lasting print','Multiple sizes','Various colors','Logo & photo printing','Professional finish.']
+  },
+  
 ]
 
 export const testimonials = [
