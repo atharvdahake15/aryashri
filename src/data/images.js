@@ -300,8 +300,8 @@ export const portfolioImages = [
   },
   {
   id: 35,
-    src: '/images/Frame1.jpeg',
-    srcLarge:'/images/Frame1.jpeg',
+    src: '/images/frame2.jpeg',
+    srcLarge:'/images/frame2.jpeg',
     title:'Frame',
     category: 'customized Frame',
     aspect: 'square'
