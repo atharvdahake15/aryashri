@@ -145,9 +145,231 @@ export const portfolioImages = [
     title: 'Product Showcase',
     category: 'customer-products',
     aspect: 'square'
-  }
+  },
+  {
+    id: 16,
+    src: '/images/machine .jpeg',
+    srcLarge: '/images/machine .jpeg',
+    title: 'Product Showcase',
+    category: 'customer-products',
+    aspect: 'square'
+  },
+  {
+    id: 17,
+    src: '/images/Prodcut11.jpeg',
+    srcLarge: '/images/Prodcut11.jpeg',
+    title:'Lanyard printing',
+    category: 'Lanyard printing',
+    aspect: 'square'
+  },
+  {
+  id: 18,
+    src: '/images/product12.jpeg',
+    srcLarge: '/images/product12.jpegg',
+    title:'Lanyard printing',
+    category: 'Lanyard printing',
+    aspect: 'square'
+  },
+  {
+  id: 19,
+    src: '/images/product13.jpeg',
+    srcLarge: '/images/product13.jpeg',
+    title:'Lanyard printing',
+    category: 'Lanyard printing',
+    aspect: 'square'
+  },
+  {
+  id: 20,
+    src: '/images/product14.jpeg',
+    srcLarge: '/images/product14.jpeg',
+    title:'Product Showcase',
+    category: 'customer-product',
+    aspect: 'square'
+  },
+  {
+  id: 21,
+    src: '/images/product15.jpeg',
+    srcLarge: '/images/product15.jpeg',
+    title:'Product Showcase',
+    category: 'customer-product',
+    aspect: 'square'
+  },
+  {
+  id: 22,
+    src: '/images/product16.jpeg',
+    srcLarge: '/images/product16.jpeg',
+    title:'Product Showcase',
+    category: 'customized keychain',
+    aspect: 'square'
+  },
+  {
+  id: 23,
+    src: '/images/product17.jpeg',
+    srcLarge:'/images/product17.jpeg',
+    title:'Product Showcase',
+    category: 'customized keychain',
+    aspect: 'square'
+  },
+  {
+  id: 24,
+    src: '/images/product18.jpeg',
+    srcLarge:'/images/product18.jpeg',
+    title:'Product Showcase',
+    category: 'customized keychain',
+    aspect: 'square'
+  },
+  {
+  id: 25,
+    src: '/images/product19.jpeg',
+    srcLarge:'/images/product19.jpeg',
+    title:'Product Showcase',
+    category: 'customized keychain',
+    aspect: 'square'
+  },
+   {
+  id: 26,
+    src: '/images/product20.jpeg',
+    srcLarge:'/images/product20.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+   {
+  id: 27,
+    src: '/images/baby4.jpeg',
+    srcLarge:'/images/baby4.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+   {
+  id: 28,
+    src: '/images/baby5.jpeg',
+    srcLarge:'/images/baby5.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 29,
+    src: '/images/baby6.jpeg',
+    srcLarge:'/images/baby6.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 30,
+    src: '/images/baby7.jpeg',
+    srcLarge:'/images/baby7.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 31,
+    src: '/images/baby8.jpeg',
+    srcLarge:'/images/baby8.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 32,
+    src: '\/images/baby9.jpeg',
+    srcLarge:'/images/baby9.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 33,
+    src: '/images/baby10.jpeg',
+    srcLarge:'/images/baby10.jpeg',
+    title:'baby shoot',
+    category: 'baby shoot',
+    aspect: 'square'
+  },
+  {
+  id: 34,
+    src: 'public\images\Frame1.jpeg',
+    srcLarge:'public\images\Frame1.jpeg',
+    title:'Frame',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 35,
+    src: '/images/frame2.jpeg',
+    srcLarge:'/images/frame2.jpeg',
+    title:'Frame',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 36,
+    src: '/images/Frame3.jpeg',
+    srcLarge:'/images/Frame3.jpeg',
+    title:'Frame',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 37,
+    src: '/images/Frame4.jpeg',
+    srcLarge:'/images/Frame4.jpeg',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 38,
+    src: '/images/Frame5.jpeg',
+    srcLarge:'/images/Frame5.jpeg',
+    title:'Frame',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 39,
+    src: '/images/Frame6.jpeg',
+    srcLarge:'/images/Frame6.jpeg',
+    title:'Frame',
+    category: 'customized Frame',
+    aspect: 'square'
+  },
+  {
+  id: 40,
+    src: '/images/T-shirt1.jpeg',
+    srcLarge:'/images/T-shirt1.jpeg',
+    title:'T-shirt',
+    category: 'customized T-shirt',
+    aspect: 'square'
+  },
+  {
+  id: 41,
+    src: '/images/T-shirt2.jpeg',
+    srcLarge:'/images/T-shirt2.jpeg',
+    title:'T-shirt',
+    category: 'customized T-shirt',
+    aspect: 'square'
+  },
+  {
+  id: 42,
+    src: '/images/T-shirt3.jpeg',
+    srcLarge:'/images/T-shirt3.jpeg',
+    title:'T-shirt',
+    category: 'customized T-shirt',
+    aspect: 'square'
+  },
+  {
+  id: 43,
+    src: '/images/T-shirt4.jpeg',
+    srcLarge:'/images/T-shirt4.jpeg',
+    title:'T-shirt',
+    category: 'customized T-shirt',
+    aspect: 'square'
+  },
 ]
-
 
 export const categories = [
   { id: 'all', label: 'All Work' },

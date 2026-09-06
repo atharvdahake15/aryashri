@@ -1,11 +1,11 @@
 export const studioInfo = {
   name: 'AaryaShri Creations',
-  tagline: 'आम्ही कैद करतो, तुमचे अविस्मरणीय क्षण आठवणींच्या रुपात....',
+  tagline: '“We capture your unforgettable moments and turn them into cherished memories….” ',
   description: 'Capturing Moments. Creating Memories. Making It Personal. From beautiful wedding and baby photography to stunning albums, creative printing, and customized products, we bring your special moments and ideas to life with passion and creativity.',
   founded: 2017,
   location: 'Om Talkies Road Near Ram Mandir Pandharkawada',
   address: 'Om Talkies Road Near Ram Mandir Pandharkawada ',
-  email: 'aaryashricreation@gmail.com',
+  email: 'aaryashricreations@gmail.com',
   phone: '9890391202',
   whatsapp: '7385797202',
   social: {
@@ -46,7 +46,7 @@ export const services = [
   },
   {
     id: 5 ,
-    title: 'Laminate art printing and ID Card Printing',
+    title: ' Lanyard and Id cards printing',
     description: 'High-quality ID card printing with durable lamination for a professional finish and protection against water, scratches, and wear.and Professional-quality ID card printing with sharp text, clear photographs, vibrant colors, and durable lamination for everyday use.',
     icon: 'Laminate',
     features: ['Durable, waterproof, scratch-resistant, clear printing, professional finish, and long-lasting protection High-quality photo printing','Sharp and clear text','Vibrant colors',' Durable PVC card','Waterproof and scratch-resistant.']
@@ -60,14 +60,14 @@ export const services = [
   },
   {
     id: 7 ,
-    title: 'Customized printing',
+    title: 'Customized gifts printing',
     description: 'Personalized printing tailored to your design, text, images, and branding.',
     icon: 'Customized printing',
     features: ['Personalized designs',' High-quality printing', 'Custom text & images', 'Logo and branding options','Vibrant colors',' Different sizes and finishes.']
   },
   {
     id: 8 ,
-    title: 'Customize Printing and T-shirt Printing ',
+    title: 'Customized Tshirt printing',
     description: 'Personalized printing with your choice of designs, photos, text, logos, and colors. and High-quality custom T-shirt printing with personalized designs, images, logos, and text.',
     icon: 'Customized printing and T-shirt Printing',
     features: ['Custom designs','High-quality prints','Vibrant colors','Personalized text','Photo & logo printing','Multiple size','Durable finish.','Custom designs','Vibrant prints','High-quality fabric','Long-lasting print','Multiple sizes','Various colors','Logo & photo printing','Professional finish.']
